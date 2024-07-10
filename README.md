@@ -1,4 +1,4 @@
-![Screenshot_20240710_145858](https://github.com/ndush/simple_ecommerce_app/assets/13904670/6e170bb7-481b-4a62-9e23-94c887a34da3)# E-commerce App
+# E-commerce App
 
 A simple e-commerce application built with Flutter. This app fetches product data from an API and displays it in a user-friendly manner with proper navigation and state management using Provider.
 
